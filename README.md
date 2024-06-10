@@ -1,5 +1,5 @@
 
-# DevSecOps Project
+# DevSecOps Project with GitLab
 
 This project demonstrates a DevSecOps pipeline using GitLab CI/CD. The pipeline includes various stages for SAST, DAST, building Docker images, and deploying applications. This README provides instructions for setting up the necessary tools, configuring GitLab variables, and understanding the pipeline.
 
